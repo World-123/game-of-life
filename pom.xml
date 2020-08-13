@@ -495,18 +495,6 @@
                         <version>2.1</version>
                     </plugin>
                 </plugins>
-                <distributionManagement>
-	    <repository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://52.66.59.123:8081/repository/Game_of_life-release/</url>
-	    </repository>
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.66.59.123:8081/repository/Game_of_Life-snapshot/</url>
-	    </snapshotRepository>
-	</distributionManagement>
             </reporting>
         </profile>
     </profiles>
